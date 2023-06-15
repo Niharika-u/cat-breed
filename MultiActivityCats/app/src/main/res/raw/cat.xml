@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="people.xsd" generated="2011-11-05T23:09:59">
+
+    <cat>
+        <breed>Maine Coon</breed>
+        <size>Massive</size>
+        <eyecolor>Gold/yellow or green</eyecolor>
+        <image>mainecoon.png</image>
+        <thumbnail>mainecoon_thumbnail.png</thumbnail>
+        <description>Full grown Maine Coon cats can weigh 12-18 pounds with some pushing 20. Not only is this breed playful and affectionate, they are also intelligent and can be easily trained. The Maine Coon is a perfect family pet.</description>
+        <shortdescription>Massive size and long fluffy coats</shortdescription>
+        <furtype>Fluffy</furtype>
+        <foundin>Maine/USA</foundin>
+        <moreinfourl>https://www.google.com/search?q=maine+coon</moreinfourl>
+    </cat>
+    <cat>
+        <breed>Siamese</breed>
+        <size>Medium</size>
+        <eyecolor>Blue</eyecolor>
+        <image>siamese.png</image>
+        <thumbnail>siamese_thumbnail.png</thumbnail>
+        <description>If you are looking for a cat that will be your best friend the social personality of the Siamese will be a perfect fit. This breed will tirelessly follow and “talk” to its owner through meows. With this rambunctious personality, the Siamese enjoys a home with a family to fulfill his need for affection.</description>
+        <shortdescription>Tirelessly follow and “talk”</shortdescription>
+        <furtype>Light-colored coats</furtype>
+        <foundin>Thailand</foundin>
+        <moreinfourl>https://www.google.com/search?q=Siamese+cat</moreinfourl>
+    </cat>
+    <cat>
+        <breed>Sphynx</breed>
+        <size>Medium</size>
+        <eyecolor>vivid blue</eyecolor>
+        <image>sphynx.png</image>
+        <thumbnail>sphnyx_thumbnail.png</thumbnail>
+        <description>This breed shows its loyalty by following their owners around and even wagging their tail, some owners have described their personalities as “dog-like”. With its lack of hair, this cat is known to cuddle for warmth and even wear sweaters!</description>
+        <shortdescription>Cuddle for warmth</shortdescription>
+        <furtype>hairless</furtype>
+        <foundin>Canada</foundin>
+        <moreinfourl>https://www.google.com/search?q=sphynx+cat</moreinfourl>
+    </cat>
+    <cat>
+        <breed>Ragdoll</breed>
+        <size>Small</size>
+        <eyecolor>Bright, Blue Eyes</eyecolor>
+        <image>ragdoll.png</image>
+        <thumbnail>ragdoll_thumbnail.png</thumbnail>
+        <description>Known for being incredibly laid-back and open to a good snuggle, these cats are a perfect addition to a family with children. Some are even known to play dress up. Although their coat is long and fluffy, Ragdoll’s lack an undercoat so they are less likely to mat.</description>
+        <shortdescription>Loves to be picked up and cuddled</shortdescription>
+        <furtype>Fluffy</furtype>
+        <foundin>California</foundin>
+        <moreinfourl>https://www.google.com/search?q=ragdoll+cat</moreinfourl>
+    </cat>
+    <cat>
+        <breed>Scottish Fold</breed>
+        <size>Small</size>
+        <eyecolor>Brilliant gold</eyecolor>
+        <image>scottishfold.png</image>
+        <thumbnail>scottishfold_thumbnail.png</thumbnail>
+        <description>This cat is highly sought after due to its distinct look and desirable personality. This is a loyal breed who will bond to one person but is still open to socializing with new people. The Scottish Fold enjoys attention when you can provide it but will still happily spend its day lounging.</description>
+        <shortdescription>Folded-over ears is the Scottish Fold</shortdescription>
+        <furtype>Small</furtype>
+        <foundin>Perthshire, Scotland</foundin>
+        <moreinfourl>https://www.google.com/search?q=scottish+fold</moreinfourl>
+    </cat>
+    <cat>
+        <breed>Bengal</breed>
+        <size>Medium</size>
+        <eyecolor>vivid blue</eyecolor>
+        <image>bengal.png</image>
+        <thumbnail>bengal_thumbnail.png</thumbnail>
+        <description>The stunning Bengal originally developed as a hybrid of an Asian Leopard Cat and the domestic cat, but is now bred through breeding Bengals to other Bengals. They enjoy people and animals. When bored the Bengal’s wild side shines, and you’ll likely find them perched up high, climbing and investigating their surroundings.</description>
+        <shortdescription>Very friendly and loving companions</shortdescription>
+        <furtype>Small fur</furtype>
+        <foundin>USA</foundin>
+        <moreinfourl>https://www.google.com/search?q=bengal+cat</moreinfourl>
+    </cat>
+
+
+</dataroot>
